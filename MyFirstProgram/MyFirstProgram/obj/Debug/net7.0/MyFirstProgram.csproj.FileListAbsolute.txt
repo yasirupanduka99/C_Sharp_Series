@@ -1,0 +1,14 @@
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.exe
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.deps.json
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.dll
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\bin\Debug\net7.0\MyFirstProgram.pdb
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.dll
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\refint\MyFirstProgram.dll
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.pdb
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\MyFirstProgram.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C#_Series\MyFirstProgram\MyFirstProgram\obj\Debug\net7.0\ref\MyFirstProgram.dll
