@@ -1,0 +1,14 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\bin\Debug\net7.0\C#_04_Comments.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\bin\Debug\net7.0\C#_04_Comments.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\bin\Debug\net7.0\C#_04_Comments.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\bin\Debug\net7.0\C#_04_Comments.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\bin\Debug\net7.0\C#_04_Comments.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\refint\C#_04_Comments.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\C#_04_Comments.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_04_Comments\obj\Debug\net7.0\ref\C#_04_Comments.dll
