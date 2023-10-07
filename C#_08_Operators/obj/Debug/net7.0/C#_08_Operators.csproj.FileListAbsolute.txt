@@ -1,0 +1,14 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\bin\Debug\net7.0\C#_08_Operators.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\bin\Debug\net7.0\C#_08_Operators.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\bin\Debug\net7.0\C#_08_Operators.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\bin\Debug\net7.0\C#_08_Operators.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\bin\Debug\net7.0\C#_08_Operators.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\refint\C#_08_Operators.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\C#_08_Operators.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_08_Operators\obj\Debug\net7.0\ref\C#_08_Operators.dll
