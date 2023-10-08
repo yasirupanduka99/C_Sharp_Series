@@ -6,6 +6,8 @@
         {
             Console.WriteLine("\n ------------ Switch Statement | Conditional Statement ------------ \n");
 
+            //Switch statement is also a type of conditional statemnt
+
 
 
 
