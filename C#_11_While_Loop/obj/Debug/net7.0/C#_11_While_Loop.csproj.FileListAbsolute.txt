@@ -1,0 +1,14 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\bin\Debug\net7.0\C#_11_While_Loop.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\bin\Debug\net7.0\C#_11_While_Loop.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\bin\Debug\net7.0\C#_11_While_Loop.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\bin\Debug\net7.0\C#_11_While_Loop.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\bin\Debug\net7.0\C#_11_While_Loop.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\refint\C#_11_While_Loop.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\C#_11_While_Loop.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_11_While_Loop\obj\Debug\net7.0\ref\C#_11_While_Loop.dll
