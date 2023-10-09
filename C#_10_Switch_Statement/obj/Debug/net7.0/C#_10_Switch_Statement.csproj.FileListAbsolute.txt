@@ -1,0 +1,14 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\bin\Debug\net7.0\C#_10_Switch_Statement.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\bin\Debug\net7.0\C#_10_Switch_Statement.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\bin\Debug\net7.0\C#_10_Switch_Statement.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\bin\Debug\net7.0\C#_10_Switch_Statement.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\bin\Debug\net7.0\C#_10_Switch_Statement.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\refint\C#_10_Switch_Statement.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\C#_10_Switch_Statement.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_10_Switch_Statement\obj\Debug\net7.0\ref\C#_10_Switch_Statement.dll
