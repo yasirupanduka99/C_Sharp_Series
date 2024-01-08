@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\bin\Debug\net6.0\C#_15_Array.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\bin\Debug\net6.0\C#_15_Array.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\bin\Debug\net6.0\C#_15_Array.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\bin\Debug\net6.0\C#_15_Array.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\bin\Debug\net6.0\C#_15_Array.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\refint\C#_15_Array.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\C#_15_Array.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_15_Array\obj\Debug\net6.0\ref\C#_15_Array.dll
