@@ -1,11 +1,11 @@
 {
   "version": 3,
   "targets": {
-    "net7.0": {}
+    "net6.0": {}
   },
   "libraries": {},
   "projectFileDependencyGroups": {
-    "net7.0": []
+    "net6.0": []
   },
   "packageFolders": {
     "C:\\Users\\22pan\\.nuget\\packages\\": {},
@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_11_While_Loop\\C#_11_While_Loop.csproj",
-      "projectName": "C#_11_While_Loop",
-      "projectPath": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_11_While_Loop\\C#_11_While_Loop.csproj",
+      "projectUniqueName": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_12_Do_While_Loop\\C#_12_Do_While_Loop\\C#_12_Do_While_Loop.csproj",
+      "projectName": "C#_12_Do_While_Loop",
+      "projectPath": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_12_Do_While_Loop\\C#_12_Do_While_Loop\\C#_12_Do_While_Loop.csproj",
       "packagesPath": "C:\\Users\\22pan\\.nuget\\packages\\",
-      "outputPath": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_11_While_Loop\\obj\\",
+      "outputPath": "C:\\Yasiru_Panduka\\Projects\\C_Sharp_Series\\C#_12_Do_While_Loop\\C#_12_Do_While_Loop\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -29,7 +29,7 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net7.0"
+        "net6.0"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
@@ -38,8 +38,8 @@
         "https://www.nuget.org/api/v2/curated-feeds/microsoftdotnet/": {}
       },
       "frameworks": {
-        "net7.0": {
-          "targetAlias": "net7.0",
+        "net6.0": {
+          "targetAlias": "net6.0",
           "projectReferences": {}
         }
       },
@@ -50,8 +50,8 @@
       }
     },
     "frameworks": {
-      "net7.0": {
-        "targetAlias": "net7.0",
+      "net6.0": {
+        "targetAlias": "net6.0",
         "imports": [
           "net461",
           "net462",

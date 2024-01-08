@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "C#_12_Do_While_Loop/1.0.0": {
+        "runtime": {
+          "C#_12_Do_While_Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "C#_12_Do_While_Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
