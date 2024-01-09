@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\bin\Debug\net6.0\C#_21_OOP_Abstraction.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\bin\Debug\net6.0\C#_21_OOP_Abstraction.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\bin\Debug\net6.0\C#_21_OOP_Abstraction.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\bin\Debug\net6.0\C#_21_OOP_Abstraction.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\bin\Debug\net6.0\C#_21_OOP_Abstraction.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\refint\C#_21_OOP_Abstraction.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\C#_21_OOP_Abstraction.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_21_OOP_Abstraction\obj\Debug\net6.0\ref\C#_21_OOP_Abstraction.dll
