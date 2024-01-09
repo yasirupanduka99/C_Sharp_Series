@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\bin\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\bin\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\bin\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\bin\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\bin\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\refint\C#_23_Errors_and_ExceptionHandiling.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\C#_23_Errors_and_ExceptionHandiling.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_23_Errors_and_ExceptionHandiling\obj\Debug\net6.0\ref\C#_23_Errors_and_ExceptionHandiling.dll
