@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\bin\Debug\net6.0\C#_19_OOP_Inheritance.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\bin\Debug\net6.0\C#_19_OOP_Inheritance.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\bin\Debug\net6.0\C#_19_OOP_Inheritance.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\bin\Debug\net6.0\C#_19_OOP_Inheritance.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\bin\Debug\net6.0\C#_19_OOP_Inheritance.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\refint\C#_19_OOP_Inheritance.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\C#_19_OOP_Inheritance.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_19_OOP_Inheritance\obj\Debug\net6.0\ref\C#_19_OOP_Inheritance.dll
