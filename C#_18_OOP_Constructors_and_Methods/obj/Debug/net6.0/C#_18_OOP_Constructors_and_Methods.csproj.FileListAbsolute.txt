@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\bin\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\bin\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\bin\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\bin\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\bin\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\refint\C#_18_OOP_Constructors_and_Methods.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\C#_18_OOP_Constructors_and_Methods.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_18_OOP_Constructors_and_Methods\obj\Debug\net6.0\ref\C#_18_OOP_Constructors_and_Methods.dll
