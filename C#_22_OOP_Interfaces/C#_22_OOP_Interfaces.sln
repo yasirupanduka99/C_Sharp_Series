@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C#_22_OOP_Interfaces", "C#_22_OOP_Interfaces.csproj", "{F12A2F33-E556-4EAE-8447-E24613CA93F5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F12A2F33-E556-4EAE-8447-E24613CA93F5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F12A2F33-E556-4EAE-8447-E24613CA93F5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F12A2F33-E556-4EAE-8447-E24613CA93F5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F12A2F33-E556-4EAE-8447-E24613CA93F5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {15CFE5DD-7658-4A16-8B39-FBAF481D60B4}
+	EndGlobalSection
+EndGlobal
