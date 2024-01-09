@@ -1,0 +1,15 @@
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\bin\Debug\net6.0\C#_17_OOP_Encapsulation.exe
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\bin\Debug\net6.0\C#_17_OOP_Encapsulation.deps.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\bin\Debug\net6.0\C#_17_OOP_Encapsulation.runtimeconfig.json
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\bin\Debug\net6.0\C#_17_OOP_Encapsulation.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\bin\Debug\net6.0\C#_17_OOP_Encapsulation.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.csproj.AssemblyReference.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.AssemblyInfoInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.AssemblyInfo.cs
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.csproj.CoreCompileInputs.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\refint\C#_17_OOP_Encapsulation.dll
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.pdb
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\C#_17_OOP_Encapsulation.genruntimeconfig.cache
+C:\Yasiru_Panduka\Projects\C_Sharp_Series\C#_17_OOP_Encapsulation\obj\Debug\net6.0\ref\C#_17_OOP_Encapsulation.dll
